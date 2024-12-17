@@ -1,0 +1,16 @@
+[
+	{
+		"name": "School shooters",
+		"unitType": "Ranged",
+		"uniqueTo": "Columbiners",
+		"replaces": "Infantry",
+		"movement": 4,
+		"strength": 120,
+		"rangedStrength": 46,
+		"range": 2,
+		"cost": 500,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "tec9"
+	}
+]

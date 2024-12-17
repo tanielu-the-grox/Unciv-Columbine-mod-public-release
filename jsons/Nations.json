@@ -1,0 +1,41 @@
+[
+	{
+		"name": "Columbine",
+		"leaderName": "Dylan Klebold",
+		"adjective": ["Columbiners"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Great Dylan Klebold, you led all Columbiners to the bright and away from being bullied.",
+		"startIntroPart2": "Columbiners, an unlucky nation, wandering across the world, no one want will accept, because they don't agree with Klebold.",
+		
+		"declaringWar": "Great, wise decision. You have completely upset me and Eric, you upset all Columbiners. It's time for you death now.",
+		"attacked": "You dare to attack on us?! YOU WILL BE IN TRASH BIN OF HISTORY SOON!!!",
+		"defeated": "You...you global bully... Wait! One day, me, Dylan Klebold, will back with all Columbiners and remove your nation!",
+		"introduction": "We Columbiners are coming for peace, of course if you not bully us.",
+		
+		"neutralHello": "Hello, in name of Cassie Bernall, we are for peace.",
+		"neutralLetsHearIt": ["What's up bro?","Need us for help?","Some thing need to help?"],
+		"neutralNo": ["I and Eric not agree with that fuck!","Rachel and Cassie will upset for this!","I refuse. Go fuck away!"],
+		"neutralYes": ["Nice. Very good.","Oh great!","Your decision is more great than prom in school!"],
+
+		"hateHello": "Don't try to upset us, global bully.",
+		"hateLetsHearIt": ["You say what?!","Say again, you global bully.","Hey. Hey?! Say again!!!"],
+		"hateNo": ["You are upset us, global bully.","Eric and me are not agreeing to that!","Go fuck away! If you don't want to be in trash bin of history."],
+		"hateYes": ["Okay","Good","Well..."],
+		
+		"afterPeace": "We just tired on remove your nation, global bully. When Eric and me got interest again, we will back.",
+		"tradeRequest": "Under the name of Cassie Bernall and Rachel Scott, we offer this trade to you.",
+
+		"outerColor": [161,217,255],
+		"innerColor": [56,132,255],
+		"uniqueName": "Way of shooters",
+		"uniques": ["Starts with [Writing]","Starts with [Education]","Starts with [The Wheel]",
+		    "Starts with [Nationalism] adopted","Starts with [United Front] adopted","Starts with [Freedom] adopted",
+			"Starts with [Liberty] adopted","Starts with [Honor] adopted","Starts with [Military Tradition] adopted"]
+		"cities": ["Littleton","Columbine","Kleboldgrad","Kleboldpolis","San Dylan","San Klebold","Dylanpolis","Dylangrad","Ericpolis",
+			"Ericgrad","Harrispolis","Harrisgrad","Cassiepolis","Cassiegrad","Bernallpolis","Bernallgrad","Rachelpolis","Rachelgrad",
+			"Scottpolis","Scottgrad","San Cassie","San Bernall","San Rachel","San Scott","Teenstopia","Qo'lora'Do","lIttlo'tong","Denver",
+			"Burlington","Lamar","Pueblo","Walsenburg","Alamosa","Aspen","Durango","Telluride","Montrose","Fruita"]
+	}
+]
