@@ -2,7 +2,7 @@
 	{
 		"name": "School shooters",
 		"unitType": "Ranged",
-		"uniqueTo": "Columbiners",
+		"uniqueTo": "Columbine",
 		"replaces": "Infantry",
 		"movement": 4,
 		"strength": 120,
