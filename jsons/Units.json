@@ -9,7 +9,7 @@
 		"rangedStrength": 46,
 		"range": 2,
 		"cost": 500,
-		"requiredTech": "Pharmaceuticals",
+		"requiredTech": "Plastics",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "tec9"
 	}
