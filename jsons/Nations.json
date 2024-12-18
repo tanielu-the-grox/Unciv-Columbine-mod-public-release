@@ -14,7 +14,7 @@
 		"defeated": "You...you global bully... Wait! One day, me, Dylan Klebold, will back with all Columbiners and remove your nation!",
 		"introduction": "We Columbiners are coming for peace, of course if you not bully us.",
 		
-		"neutralHello": "Hello, in name of Cassie Bernall, we are for peace.",
+		"neutralHello": "Hello, in name of Cassie Bernall, we come for peace.",
 		"neutralLetsHearIt": ["What's up bro?","Need us for help?","Some thing need to help?"],
 		"neutralNo": ["I and Eric not agree with that fuck!","Rachel and Cassie will upset for this!","I refuse. Go fuck away!"],
 		"neutralYes": ["Nice. Very good.","Oh great!","Your decision is more great than prom in school!"],
@@ -30,9 +30,9 @@
 		"outerColor": [161,217,255],
 		"innerColor": [56,132,255],
 		"uniqueName": "Way of shooters",
-		"uniques": ["Starts with [Writing]","Starts with [Education]","Starts with [The Wheel]",
-		    "Starts with [Nationalism] adopted","Starts with [United Front] adopted","Starts with [Freedom] adopted",
-			"Starts with [Liberty] adopted","Starts with [Honor] adopted","Starts with [Military Tradition] adopted"]
+		"uniques": ["Starts with [Writing]","Starts with [The Wheel]","Starts with [Nationalism] adopted",
+			"Starts with [United Front] adopted","Starts with [Freedom] adopted","Starts with [Liberty] adopted",
+			"Starts with [Honor] adopted","Starts with [Military Tradition] adopted"]
 		"cities": ["Littleton","Columbine","Kleboldgrad","Kleboldpolis","San Dylan","San Klebold","Dylanpolis","Dylangrad","Ericpolis",
 			"Ericgrad","Harrispolis","Harrisgrad","Cassiepolis","Cassiegrad","Bernallpolis","Bernallgrad","Rachelpolis","Rachelgrad",
 			"Scottpolis","Scottgrad","San Cassie","San Bernall","San Rachel","San Scott","Teenstopia","Qo'lora'Do","lIttlo'tong","Denver",
